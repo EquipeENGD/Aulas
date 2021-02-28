@@ -1,0 +1,87 @@
+Esqueleto do site:
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Título do Site</title>
+</head>
+<body>
+    <main>
+        <header>
+            <h1>Título do Site</h1>
+        </header>
+        <article>
+            <h2>Artigo 001</h2>
+            <p>Texto artigo 001</p>
+        </article>
+        <article>
+            <h2>Artigo 002</h2>
+            <p>Texto artigo 002</p>
+        </article>
+    </main>
+</body>
+</html>
+
+
+
+Conteúdo do site:
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ola Mundo</title>
+</head>
+<body>
+    <main>
+        <header>
+            <h1>Olá Mundo</h1>
+        </header>
+        <article>
+            <h2>Coisas que gosto</h2>
+            <p><ol>
+                <li>licença</li>
+                <li>tfm</li>
+                <li>programação</li>
+            </ol></p>
+        </article>
+        <article>
+            <h2>Coisas que não gosto</h2>
+            <p><ol>
+                <li>quarentena</li>
+                <li>estudo obrigatório</li>
+                <li>anotação de parada</li>
+            </ol></p>
+        </article>
+    </main>
+</body>
+</html>
+
+
+
+Design do site: 
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+
+}
+
+body {
+    background-color: aquamarine;
+}
+
+
+main {
+    background-color: beige;
+    width: 500px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.438);
+
+}
