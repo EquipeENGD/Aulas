@@ -6,7 +6,7 @@ ___
  Já está inclusa até a terceira aula!
  ___
  ## Aulas ministradas:
- -[x] aula 0
- -[] aula 1
- -[] aula 2
- -[] aula 2
+ - [x] aula 0
+ - [ ] aula 1
+ - [ ] aula 2
+ - [ ] aula 2
