@@ -3,10 +3,11 @@
 ___
  Já estão inclusos os tutoriais de instalação e configurações de conta!
 
- Já está inclusa até a terceira aula!
+ Já está inclusa até a quarta aula!
  ___
  ## Aulas ministradas:
  - [x] aula 0
- - [ ] aula 1
- - [ ] aula 2
- - [ ] aula 2
+ - [x] aula 1
+ - [x] aula 2
+ - [x] aula 3
+ - [ ] aula 4
